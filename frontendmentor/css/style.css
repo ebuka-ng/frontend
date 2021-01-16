@@ -1,0 +1,131 @@
+body {
+  background-color:  hsl(210, 46%, 95%);
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.container{
+    width:1200px;
+  height:500px;
+  margin:120px auto 120px auto;
+
+}
+
+.name{
+ margin:30px;
+}
+
+h3{
+  color:white;
+  font-size:1em;
+  z-index: 2;
+}
+
+.onwhite{
+  color:hsl(217, 19%, 35%);
+}
+
+.colon{
+  float:right;
+  right:50px;
+  height:100px;
+  z-index: 1;
+
+
+}
+
+.testimony{
+  color:white;
+  font-size:0.65em;
+  line-height:1.6;
+  opacity:60%;
+}
+
+.testimony-onwhite{
+  color:hsl(217, 19%, 35%);
+  font-size:0.7em;
+  line-height:1.6;
+  opacity:60%;
+}
+
+.name-text{
+  margin:0;
+  padding:0;
+  color:hsl(0, 0%, 81%);
+}
+
+.name-tag{
+  margin-left: 40px;
+  font-size:0.7em;
+  line-height: 1.5;
+  font-weight:bolder;
+}
+
+.position{
+  margin:0;
+  padding:0;
+  color:hsl(0, 0%, 81%);
+  opacity:70%;
+  font-size: 0.8em;
+}
+
+.daniel-img {
+  border-radius:50%;
+  float:left;
+  width:28px;
+  height:28px;
+  border:solid hsl(0, 0%, 81%) 1px;
+}
+
+.daniel-box{
+  height:240px;
+  width:600px;
+  background-color: hsl(263, 55%, 52%);
+  border:solid 0;
+  border-radius: 2%;
+  position:absolute;
+  text-align:left;
+}
+
+.jonathan-box{
+  height:240px;
+  width:250px;
+  background-color:hsl(217, 19%, 35%);
+  border:solid 0;
+  border-radius: 3%;
+  margin-left: 637.5px;
+  float:left;
+
+}
+
+.kira-box{
+  height:500px;
+  width:275px;
+  background-color:hsl(0, 0%, 100%);
+  border:solid 0;
+  border-radius: 3%;
+  margin-left: 925px;
+  position:absolute;
+  filter: drop-shadow(20px 30px 30px hsl(0, 0%, 81%) );
+
+}
+
+.harmon-box{
+  height:230px;
+  width:262.5px;
+  margin-top:270px;
+  background-color: hsl(0, 0%, 100%);
+  position:absolute;
+  border-radius: 3%;
+  filter: drop-shadow(10px 20px 10px hsl(0, 0%, 81%) );
+}
+
+.patrick-box{
+  width:600px;
+  height:230px;
+  margin-top:30px;
+  background-color:hsl(219, 29%, 14%);
+  border-radius: 2%;
+  float:left;
+  margin-left:287.5px;
+  filter: drop-shadow(10px 20px 15px hsl(0, 0%, 81%) );
+}
